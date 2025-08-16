@@ -209,97 +209,73 @@
             "ctas": [],
             "contentItems": [
               {
-                "contentType": "pricingplan",
+                "contentType": "flexiblecontent",
                 "id": "starter-plan",
-                "planName": "STARTER",
-                "badge": null,
-                "featured": false,
-                "description": "Forex & Gold essentials for focused traders.",
-                "features": [
-                  "8–12 signals/week (Forex & Gold)",
-                  "Telegram access",
-                  "Entry/SL/TP levels"
-                ],
-                "planLimitations": [],
-                "disclaimer": "Trading involves significant risk. This service is educational and not financial advice.",
+                "title": "### __STARTER__",
+                "eyebrow": null,
+                "body": "**Forex & Gold essentials for focused traders.**\n\n- 8–12 signals/week (Forex & Gold)\n- Telegram access\n- Entry/SL/TP levels\n\n**$29/month**\n\n*Trading involves significant risk. This service is educational and not financial advice.*",
+                "tags": null,
+                "redirectUrl": null,
                 "alignment": "start",
-                "cta": {
-                  "href": "https://t.me/MuhammadTradesOfficial",
-                  "label": "Join Starter",
-                  "openNewTab": true,
-                  "variant": "primary",
-                  "withArrow": true,
-                  "icon": null
-                },
-                "pricingOptions": [
+                "layout": "vertical",
+                "buttons": [
                   {
-                    "billingCycle": "Monthly",
-                    "price": "$29",
-                    "priceSuffix": "billed monthly"
+                    "href": "https://t.me/MuhammadTradesOfficial",
+                    "label": "Join Starter",
+                    "openNewTab": true,
+                    "variant": "primary",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "starter-cta"
                   }
-                ]
+                ],
+                "media": []
               },
               {
-                "contentType": "pricingplan",
+                "contentType": "flexiblecontent",
                 "id": "standard-plan",
-                "planName": "STANDARD",
-                "badge": "Popular",
-                "featured": true,
-                "description": "Balanced coverage across FX, Gold & Crypto.",
-                "features": [
-                  "15–25 signals/week",
-                  "Weekly recaps",
-                  "Priority support"
-                ],
-                "planLimitations": [],
-                "disclaimer": "Trading involves significant risk. This service is educational and not financial advice.",
+                "title": "### __STANDARD__ *Popular*",
+                "eyebrow": null,
+                "body": "**Balanced coverage across FX, Gold & Crypto.**\n\n- 15–25 signals/week\n- Weekly recaps\n- Priority support\n\n**$59/month**\n\n*Trading involves significant risk. This service is educational and not financial advice.*",
+                "tags": null,
+                "redirectUrl": null,
                 "alignment": "start",
-                "cta": {
-                  "href": "https://t.me/MuhammadTradesOfficial",
-                  "label": "Join Standard",
-                  "openNewTab": true,
-                  "variant": "primary",
-                  "withArrow": true,
-                  "icon": null
-                },
-                "pricingOptions": [
+                "layout": "vertical",
+                "buttons": [
                   {
-                    "billingCycle": "Monthly",
-                    "price": "$59",
-                    "priceSuffix": "billed monthly"
+                    "href": "https://t.me/MuhammadTradesOfficial",
+                    "label": "Join Standard",
+                    "openNewTab": true,
+                    "variant": "primary",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "standard-cta"
                   }
-                ]
+                ],
+                "media": []
               },
               {
-                "contentType": "pricingplan",
+                "contentType": "flexiblecontent",
                 "id": "premium-plan",
-                "planName": "PREMIUM",
-                "badge": null,
-                "featured": false,
-                "description": "Full access + mentorship & exclusive setups.",
-                "features": [
-                  "Stock signals included",
-                  "Monthly live Q&A",
-                  "VIP chat access"
-                ],
-                "planLimitations": [],
-                "disclaimer": "Trading involves significant risk. This service is educational and not financial advice.",
+                "title": "### __PREMIUM__",
+                "eyebrow": null,
+                "body": "**Full access + mentorship & exclusive setups.**\n\n- Stock signals included\n- Monthly live Q&A\n- VIP chat access\n\n**$99/month**\n\n*Trading involves significant risk. This service is educational and not financial advice.*",
+                "tags": null,
+                "redirectUrl": null,
                 "alignment": "start",
-                "cta": {
-                  "href": "https://t.me/MuhammadTradesOfficial",
-                  "label": "Join Premium",
-                  "openNewTab": true,
-                  "variant": "primary",
-                  "withArrow": true,
-                  "icon": null
-                },
-                "pricingOptions": [
+                "layout": "vertical",
+                "buttons": [
                   {
-                    "billingCycle": "Monthly",
-                    "price": "$99",
-                    "priceSuffix": "billed monthly"
+                    "href": "https://t.me/MuhammadTradesOfficial",
+                    "label": "Join Premium",
+                    "openNewTab": true,
+                    "variant": "primary",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "premium-cta"
                   }
-                ]
+                ],
+                "media": []
               }
             ]
           }
