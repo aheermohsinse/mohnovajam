@@ -36,13 +36,6 @@
         "href": "/faq",
         "openNewTab": false,
         "contentType": "link"
-      },
-      {
-        "id": "github",
-        "label": "Github",
-        "href": "https://github.com/minhwpm/novajam",
-        "openNewTab": true,
-        "contentType": "link"
       }
     ],
     "buttons": [
