@@ -7,8 +7,8 @@
     "darkMode": false,
     "logo": {
       "id": "logo",
-      "url": "https://images.ctfassets.net/ehmycbmc25mu/7vvCItsTwfA8tl0SyqlzWT/b8c89a775becaac933165795be38ef05/novajam_logo_black.webp",
-      "title": "novajam logo black",
+      "url": "https://drive.google.com/file/d/1ArAB-NG6eh5pPGxPqTCakp0TQutMrWih/view?usp=sharing",
+      "title": "Muhammad Trades",
       "description": null,
       "width": 1055,
       "height": 160,
@@ -58,8 +58,8 @@
     "darkMode": true,
     "logo": {
       "id": "logo",
-      "url": "https://images.ctfassets.net/ehmycbmc25mu/7vvCItsTwfA8tl0SyqlzWT/b8c89a775becaac933165795be38ef05/novajam_logo_black.webp",
-      "title": "novajam logo black",
+      "url": "https://drive.google.com/file/d/1ArAB-NG6eh5pPGxPqTCakp0TQutMrWih/view?usp=sharing",
+      "title": "Muhammad Trades",
       "description": null,
       "width": 1055,
       "height": 160,
@@ -86,13 +86,6 @@
         "label": "FAQ",
         "href": "/faq",
         "openNewTab": false,
-        "contentType": "link"
-      },
-      {
-        "id": "github",
-        "label": "Github",
-        "href": "https://github.com/minhwpm/novajam",
-        "openNewTab": true,
         "contentType": "link"
       }
     ],
