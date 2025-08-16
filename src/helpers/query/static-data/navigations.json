@@ -41,7 +41,7 @@
     "buttons": [
       {
         "id": "5ch7AWS9JLFOzlZ2HA35H5",
-        "label": "Get PRO",
+        "label": "VIP GROUP",
         "href": "https://novajam-pro.vercel.app",
         "openNewTab": true,
         "variant": "primary",
@@ -99,7 +99,7 @@
     "buttons": [
       {
         "id": "5ch7AWS9JLFOzlZ2HA35H5",
-        "label": "Get PRO",
+        "label": "VIP GROUP",
         "href": "https://novajam.vercel.app",
         "openNewTab": true,
         "variant": "primary",
