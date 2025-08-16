@@ -1,25 +1,27 @@
 [
   {
-    "title": "Muhammad Trades — Forex, Commodities, Crypto & Stocks",
+    "title": "Muhammad Trades — Professional VIP Trading Signals",
     "url": "/",
     "seo": {
-      "metaTitle": "Muhammad Trades | VIP Trading Signals (Forex, Gold, Crypto, Stocks) xxx",
-      "metaDescription": "Join Muhammad Trades VIP channel for real-time signals across Forex, Gold, Crypto and Stocks — exact entry, stop-loss and take-profit levels.",
+      "metaTitle": "Muhammad Trades | Premium VIP Trading Signals - Forex, Gold, Crypto & Stocks",
+      "metaDescription": "Join 2000+ successful traders with Muhammad Trades premium VIP signals. Expert analysis, real-time alerts, and proven track record on TradingView. Start your profitable trading journey today.",
       "canonicalUrl": "https://tradingsignals.aheer.co/",
       "focusKeywords": [
-        "trading signals",
+        "VIP trading signals",
         "forex signals",
-        "crypto signals",
-        "gold signals"
+        "crypto trading signals",
+        "gold trading signals",
+        "Muhammad Trades",
+        "premium trading alerts"
       ],
       "nofollow": false,
       "noindex": false,
       "ogImage": {
-        "url": "",
+        "url": "https://tradingsignals.aheer.co/og-image.jpg",
         "width": 1200,
         "height": 630,
-        "description": null,
-        "contentType": "image/png"
+        "description": "Muhammad Trades - Premium VIP Trading Signals",
+        "contentType": "image/jpeg"
       }
     },
     "fontMain": "Inter",
@@ -33,41 +35,41 @@
         "id": "muhammad-trades-hero",
         "htmlid": "home",
         "layout": "Rows",
-        "gap": "lg",
-        "backgroundColor": null,
+        "gap": "xl",
+        "backgroundColor": "linear-gradient(135deg, #0f172a 0%, #1e293b 100%)",
         "backgroundImage": null,
         "enableParallaxEffect": false,
-        "darkMode": false,
+        "darkMode": true,
         "sectionSeparator": false,
-        "paddingTop": "2xl",
-        "paddingBottom": "xl",
+        "paddingTop": "3xl",
+        "paddingBottom": "2xl",
         "fullViewWidth": false,
         "content": [
           {
-            "eyebrow": "Trusted VIP signals",
-            "title": "# __Trade with clarity — VIP signals for `Forex, Gold, Crypto & Stocks`__",
-            "body": "Exact entry, stop loss and take profit levels delivered to our private Telegram channel.",
+            "eyebrow": "🏆 Trusted by 2000+ Traders Worldwide",
+            "title": "# __Trade Like a `Professional` — Premium VIP Signals for Maximum Profits__",
+            "body": "Join the elite circle of successful traders with **Muhammad Trades** premium signals. Get exact entry points, stop-loss, and take-profit levels delivered instantly to your private Telegram channel. **Start making consistent profits today.**",
             "disclaimer": null,
-            "titleFontSize": "xl",
+            "titleFontSize": "2xl",
             "alignment": "center",
             "paddingTop": "none",
             "paddingLeft": "none",
-            "paddingBottom": "base",
+            "paddingBottom": "xl",
             "paddingRight": "none",
             "contentType": "richcontent",
             "ctas": [
               {
                 "href": "#pricing",
-                "label": "JOIN NOW",
+                "label": "🚀 JOIN VIP CHANNEL NOW",
                 "openNewTab": false,
                 "variant": "primary",
                 "withArrow": true,
                 "icon": null,
-                "id": "join-now-primary"
+                "id": "join-vip-primary"
               },
               {
                 "href": "https://www.tradingview.com/u/MuhammadTrades/",
-                "label": "See trades on TradingView",
+                "label": "📈 View Live Trading Results",
                 "openNewTab": true,
                 "variant": "ghost",
                 "withArrow": false,
@@ -75,28 +77,233 @@
                 "id": "tradingview-secondary"
               }
             ]
+          },
+          {
+            "contentType": "contentlist",
+            "id": "trust-indicators",
+            "gap": "lg",
+            "layout": "grid",
+            "columns": 4,
+            "ctas": [],
+            "contentItems": [
+              {
+                "contentType": "flexiblecontent",
+                "id": "trust-1",
+                "title": "**2000+**",
+                "eyebrow": null,
+                "body": "Active VIP Members",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "trust-2",
+                "title": "**87%**",
+                "eyebrow": null,
+                "body": "Winning Rate (Verified)",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "trust-3",
+                "title": "**24/7**",
+                "eyebrow": null,
+                "body": "Market Coverage",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "trust-4",
+                "title": "**5+ Years**",
+                "eyebrow": null,
+                "body": "Proven Experience",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              }
+            ]
           }
         ]
       },
       {
         "contentType": "smartsection",
-        "id": "muhammad-trades-features",
-        "htmlid": "features",
+        "id": "why-choose-us",
+        "htmlid": "benefits",
         "layout": "Rows",
-        "gap": "lg",
-        "backgroundColor": "#f1f5f9",
+        "gap": "xl",
+        "backgroundColor": "#ffffff",
         "backgroundImage": null,
         "enableParallaxEffect": false,
         "darkMode": false,
         "sectionSeparator": false,
-        "paddingTop": "xl",
-        "paddingBottom": "xl",
+        "paddingTop": "3xl",
+        "paddingBottom": "3xl",
         "fullViewWidth": false,
         "content": [
           {
+            "eyebrow": "Why Successful Traders Choose Muhammad Trades",
+            "title": "## __Transform Your Trading with `Professional-Grade` Intelligence__",
+            "body": "Our VIP signals aren't just predictions—they're your pathway to consistent profitability. Here's what sets us apart from the rest:",
+            "disclaimer": null,
+            "titleFontSize": "xl",
+            "alignment": "center",
+            "paddingTop": "none",
+            "paddingLeft": "none",
+            "paddingBottom": "2xl",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": []
+          },
+          {
+            "contentType": "contentlist",
+            "id": "benefits-grid",
+            "gap": "xl",
+            "layout": "grid",
+            "columns": 2,
+            "ctas": [],
+            "contentItems": [
+              {
+                "contentType": "flexiblecontent",
+                "id": "benefit-1",
+                "title": "### 🎯 __Precision Trading Signals__",
+                "eyebrow": null,
+                "body": "Every signal comes with **exact entry points, stop-loss, and multiple take-profit levels**. No guesswork, no confusion—just clear, actionable trades that you can execute with confidence.",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "start",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "benefit-2",
+                "title": "### 📊 __100% Transparent Track Record__",
+                "eyebrow": null,
+                "body": "All our trades are **publicly posted on TradingView** for complete transparency. Check our verified performance history and see why thousands trust Muhammad Trades.",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "start",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "benefit-3",
+                "title": "### 🌍 __Multi-Market Mastery__",
+                "eyebrow": null,
+                "body": "Trade **Forex majors, Gold (XAUUSD), top Cryptocurrencies, and selected Stock indices**. Diversify your portfolio and maximize opportunities across global markets.",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "start",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "benefit-4",
+                "title": "### 🛡️ __Risk Management First__",
+                "eyebrow": null,
+                "body": "**Professional risk management** with clear invalidation levels, position sizing guidance, and weekly portfolio reviews. Protect your capital while maximizing profits.",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "start",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "benefit-5",
+                "title": "### ⚡ __Real-Time Market Updates__",
+                "eyebrow": null,
+                "body": "Get instant notifications on **trade entries, exits, and management updates**. Never miss a profitable opportunity with our lightning-fast Telegram alerts.",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "start",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "benefit-6",
+                "title": "### 📚 __Educational Value__",
+                "eyebrow": null,
+                "body": "Learn while you earn with **detailed market analysis, trade reasoning, and educational content**. Develop your own trading skills alongside profitable signals.",
+                "tags": null,
+                "redirectUrl": null,
+                "alignment": "start",
+                "layout": "vertical",
+                "buttons": [],
+                "media": []
+              }
+            ]
+          },
+          {
             "eyebrow": null,
-            "title": "## __Why traders choose Muhammad Trades__",
-            "body": null,
+            "title": null,
+            "body": "**Ready to join the winning team?** Don't let another profitable trade pass you by.",
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "alignment": "center",
+            "paddingTop": "xl",
+            "paddingLeft": "none",
+            "paddingBottom": "none",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": [
+              {
+                "href": "#pricing",
+                "label": "🔥 CLAIM YOUR VIP ACCESS",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null,
+                "id": "claim-access-cta"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "social-proof",
+        "htmlid": "proof",
+        "layout": "Rows",
+        "gap": "lg",
+        "backgroundColor": "#f8fafc",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "2xl",
+        "paddingBottom": "2xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "eyebrow": "Verified Performance & Social Proof",
+            "title": "## __See Our `Proven Results` in Action__",
+            "body": "Don't just take our word for it—see the transparent results that have made Muhammad Trades the trusted choice for serious traders worldwide.",
             "disclaimer": null,
             "titleFontSize": "base",
             "alignment": "center",
@@ -109,62 +316,79 @@
           },
           {
             "contentType": "contentlist",
-            "id": "features-list",
+            "id": "social-proof-grid",
             "gap": "lg",
             "layout": "grid",
-            "columns": 4,
+            "columns": 3,
             "ctas": [],
             "contentItems": [
               {
                 "contentType": "flexiblecontent",
-                "id": "feature-1",
-                "title": "### __Real-time Telegram signals__",
+                "id": "tradingview-proof",
+                "title": "### 📈 __TradingView Verified__",
                 "eyebrow": null,
-                "body": "Exact entry, stop-loss and take-profit with trade management updates.",
+                "body": "**All trades posted publicly** on TradingView with real-time results. Check our verified track record and performance history.",
                 "tags": null,
-                "redirectUrl": null,
-                "alignment": "start",
+                "redirectUrl": "https://www.tradingview.com/u/MuhammadTrades/",
+                "alignment": "center",
                 "layout": "vertical",
-                "buttons": [],
+                "buttons": [
+                  {
+                    "href": "https://www.tradingview.com/u/MuhammadTrades/",
+                    "label": "View TradingView Profile",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "tv-proof-btn"
+                  }
+                ],
                 "media": []
               },
               {
                 "contentType": "flexiblecontent",
-                "id": "feature-2",
-                "title": "### __Transparent track record__",
+                "id": "telegram-proof",
+                "title": "### 💬 __Active Community__",
                 "eyebrow": null,
-                "body": "All trades posted on TradingView for full transparency.",
+                "body": "**2000+ active traders** in our Telegram community. Join the discussion, share experiences, and learn from fellow traders.",
                 "tags": null,
-                "redirectUrl": null,
-                "alignment": "start",
+                "redirectUrl": "https://t.me/MuhammadTradesOfficial",
+                "alignment": "center",
                 "layout": "vertical",
-                "buttons": [],
+                "buttons": [
+                  {
+                    "href": "https://t.me/MuhammadTradesOfficial",
+                    "label": "Join Telegram",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "tg-proof-btn"
+                  }
+                ],
                 "media": []
               },
               {
                 "contentType": "flexiblecontent",
-                "id": "feature-3",
-                "title": "### __Multi-market coverage__",
+                "id": "social-proof-socials",
+                "title": "### 🌟 __Multi-Platform Presence__",
                 "eyebrow": null,
-                "body": "Forex, Gold (XAUUSD), Crypto majors, and selected Stocks.",
+                "body": "Follow our **educational content and market insights** across YouTube, Instagram, and Twitter for additional trading value.",
                 "tags": null,
                 "redirectUrl": null,
-                "alignment": "start",
+                "alignment": "center",
                 "layout": "vertical",
-                "buttons": [],
-                "media": []
-              },
-              {
-                "contentType": "flexiblecontent",
-                "id": "feature-4",
-                "title": "### __Risk-first approach__",
-                "eyebrow": null,
-                "body": "Clear invalidation levels, position sizing guidance and weekly reviews.",
-                "tags": null,
-                "redirectUrl": null,
-                "alignment": "start",
-                "layout": "vertical",
-                "buttons": [],
+                "buttons": [
+                  {
+                    "href": "https://www.youtube.com/@MuhammadTradesOfficial",
+                    "label": "YouTube Channel",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "social-proof-btn"
+                  }
+                ],
                 "media": []
               }
             ]
@@ -176,26 +400,26 @@
         "id": "muhammad-trades-pricing",
         "htmlid": "pricing",
         "layout": "Rows",
-        "gap": "lg",
-        "backgroundColor": "#161c2d",
+        "gap": "xl",
+        "backgroundColor": "#0f172a",
         "backgroundImage": null,
         "enableParallaxEffect": false,
         "darkMode": true,
         "sectionSeparator": false,
-        "paddingTop": "2xl",
-        "paddingBottom": "xl",
+        "paddingTop": "3xl",
+        "paddingBottom": "3xl",
         "fullViewWidth": false,
         "content": [
           {
-            "eyebrow": null,
-            "title": "## __Pricing Plans__",
-            "body": "Pick the plan that fits your needs",
+            "eyebrow": "Choose Your Success Plan",
+            "title": "## __Premium VIP Trading Plans — `Start Profiting Today`__",
+            "body": "Join thousands of successful traders who've transformed their financial future with Muhammad Trades VIP signals. **Choose the plan that matches your trading goals and start your profitable journey today.**",
             "disclaimer": null,
-            "titleFontSize": "base",
+            "titleFontSize": "xl",
             "alignment": "center",
             "paddingTop": "none",
             "paddingLeft": "none",
-            "paddingBottom": "lg",
+            "paddingBottom": "2xl",
             "paddingRight": "none",
             "contentType": "richcontent",
             "ctas": []
@@ -203,7 +427,7 @@
           {
             "contentType": "contentlist",
             "id": "pricing-plans",
-            "gap": "base",
+            "gap": "lg",
             "layout": "grid",
             "columns": 3,
             "ctas": [],
@@ -211,9 +435,9 @@
               {
                 "contentType": "flexiblecontent",
                 "id": "starter-plan",
-                "title": "### __STARTER__",
+                "title": "### 🚀 __STARTER SIGNALS__",
                 "eyebrow": null,
-                "body": "**Forex & Gold essentials for focused traders.**\n\n- 8–12 signals/week (Forex & Gold)\n- Telegram access\n- Entry/SL/TP levels\n\n**$29/month**\n\n*Trading involves significant risk. This service is educational and not financial advice.*",
+                "body": "**Perfect for New VIP Traders**\n\n✅ **8-12 Premium Signals/Week**\n✅ **Forex & Gold (XAUUSD) Signals**\n✅ **Exact Entry, SL & TP Levels**\n✅ **Private Telegram Access**\n✅ **Basic Trade Management**\n✅ **Community Support**\n\n### **$29/month**\n\n*Perfect for traders starting their VIP journey*",
                 "tags": null,
                 "redirectUrl": null,
                 "alignment": "start",
@@ -221,7 +445,7 @@
                 "buttons": [
                   {
                     "href": "https://t.me/MuhammadTradesOfficial",
-                    "label": "Join Starter",
+                    "label": "🔥 START EARNING NOW",
                     "openNewTab": true,
                     "variant": "primary",
                     "withArrow": true,
@@ -234,9 +458,9 @@
               {
                 "contentType": "flexiblecontent",
                 "id": "standard-plan",
-                "title": "### __STANDARD__ *Popular*",
+                "title": "### ⭐ __STANDARD PRO__ *Most Popular*",
                 "eyebrow": null,
-                "body": "**Balanced coverage across FX, Gold & Crypto.**\n\n- 15–25 signals/week\n- Weekly recaps\n- Priority support\n\n**$59/month**\n\n*Trading involves significant risk. This service is educational and not financial advice.*",
+                "body": "**Best Value for Serious Traders**\n\n✅ **15-25 Premium Signals/Week**\n✅ **Forex, Gold & Crypto Signals**\n✅ **Advanced Trade Management**\n✅ **Weekly Market Analysis**\n✅ **Priority Support**\n✅ **Risk Management Guide**\n✅ **Trade Setups Explained**\n\n### **$59/month**\n\n*Recommended for consistent profits*",
                 "tags": null,
                 "redirectUrl": null,
                 "alignment": "start",
@@ -244,7 +468,7 @@
                 "buttons": [
                   {
                     "href": "https://t.me/MuhammadTradesOfficial",
-                    "label": "Join Standard",
+                    "label": "⚡ JOIN MOST POPULAR",
                     "openNewTab": true,
                     "variant": "primary",
                     "withArrow": true,
@@ -257,9 +481,9 @@
               {
                 "contentType": "flexiblecontent",
                 "id": "premium-plan",
-                "title": "### __PREMIUM__",
+                "title": "### 👑 __PREMIUM ELITE__",
                 "eyebrow": null,
-                "body": "**Full access + mentorship & exclusive setups.**\n\n- Stock signals included\n- Monthly live Q&A\n- VIP chat access\n\n**$99/month**\n\n*Trading involves significant risk. This service is educational and not financial advice.*",
+                "body": "**Complete Trading Mastery**\n\n✅ **25+ Premium Signals/Week**\n✅ **All Markets: Forex, Gold, Crypto & Stocks**\n✅ **VIP-Only Setups & Opportunities**\n✅ **Monthly Live Q&A Sessions**\n✅ **Personal Trading Mentorship**\n✅ **Exclusive Market Insights**\n✅ **1-on-1 Strategy Sessions**\n\n### **$99/month**\n\n*For serious traders who want it all*",
                 "tags": null,
                 "redirectUrl": null,
                 "alignment": "start",
@@ -267,7 +491,7 @@
                 "buttons": [
                   {
                     "href": "https://t.me/MuhammadTradesOfficial",
-                    "label": "Join Premium",
+                    "label": "👑 GO PREMIUM ELITE",
                     "openNewTab": true,
                     "variant": "primary",
                     "withArrow": true,
@@ -278,6 +502,20 @@
                 "media": []
               }
             ]
+          },
+          {
+            "eyebrow": null,
+            "title": null,
+            "body": "🛡️ **7-Day Money-Back Guarantee** | 🔒 **Secure Payment** | 📱 **Instant Access** | ⏰ **Cancel Anytime**\n\n*Risk disclosure: Trading involves significant risk of loss and is not suitable for all investors. Past performance does not guarantee future results.*",
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "alignment": "center",
+            "paddingTop": "xl",
+            "paddingLeft": "none",
+            "paddingBottom": "none",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": []
           }
         ]
       },
@@ -285,27 +523,27 @@
         "contentType": "smartsection",
         "id": "muhammad-trades-faq",
         "htmlid": "faq",
-        "layout": "Banner",
-        "gap": "lg",
-        "backgroundColor": null,
+        "layout": "Rows",
+        "gap": "xl",
+        "backgroundColor": "#ffffff",
         "backgroundImage": null,
         "enableParallaxEffect": false,
         "darkMode": false,
         "sectionSeparator": false,
-        "paddingTop": "xl",
-        "paddingBottom": "xl",
+        "paddingTop": "3xl",
+        "paddingBottom": "3xl",
         "fullViewWidth": false,
         "content": [
           {
-            "eyebrow": null,
-            "title": "## __FAQ__",
-            "body": null,
+            "eyebrow": "Your Questions Answered",
+            "title": "## __Frequently Asked Questions About `VIP Trading Signals`__",
+            "body": "Get all the answers you need to make an informed decision about joining Muhammad Trades VIP community.",
             "disclaimer": null,
             "titleFontSize": "base",
             "alignment": "center",
             "paddingTop": "none",
             "paddingLeft": "none",
-            "paddingBottom": "lg",
+            "paddingBottom": "2xl",
             "paddingRight": "none",
             "contentType": "richcontent",
             "ctas": []
@@ -313,31 +551,90 @@
           {
             "contentType": "contentlist",
             "id": "faq-list",
-            "gap": "base",
+            "gap": "lg",
             "layout": "grid",
             "columns": 1,
             "ctas": [],
             "contentItems": [
               {
-                "heading": "How do I receive signals?",
-                "body": "Signals are delivered instantly to a private Telegram channel with exact levels and updates.",
+                "heading": "🤔 Why should I use Muhammad Trades VIP signals?",
+                "body": "Here are 5 main reasons: **1)** You receive premium signals from a verified TradingView author with 5+ years experience **2)** FREEDOM & STRESS-FREE - Average 4 quality signals daily, enjoy life while making money **3)** REAL-TIME UPDATES - Instant notifications for entries, exits, and trade management **4)** 100% TRANSPARENCY - All results posted publicly on TradingView **5)** SIMPLE EXECUTION - Clear entry, stop-loss, and take-profit levels with no guesswork.",
                 "isCollapsed": false,
                 "contentType": "qa",
-                "id": "faq-1"
+                "id": "faq-why-us"
               },
               {
-                "heading": "Which markets are covered?",
-                "body": "Forex, Commodities (Gold), Crypto, and selected Stocks/Indices.",
+                "heading": "📱 How do I receive the VIP signals?",
+                "body": "All VIP signals are delivered instantly to our private Telegram channel. You'll get **real-time notifications** with exact entry points, stop-loss levels, and multiple take-profit targets. Each signal includes detailed analysis and trade reasoning. Mobile and desktop notifications ensure you never miss profitable opportunities.",
                 "isCollapsed": true,
                 "contentType": "qa",
-                "id": "faq-2"
+                "id": "faq-delivery"
               },
               {
-                "heading": "Are results guaranteed?",
-                "body": "No — trading involves risk. We provide high-probability setups and transparent records.",
+                "heading": "💰 What's the minimum deposit I need to start trading?",
+                "body": "We recommend starting with **at least $300-500** for optimal position sizing with our signals. This allows you to use proper risk management (1-2% risk per trade) while maintaining good leverage ratios. You can start with smaller amounts, but ensure you can execute trades with appropriate lot sizes for effective risk management.",
                 "isCollapsed": true,
                 "contentType": "qa",
-                "id": "faq-3"
+                "id": "faq-deposit"
+              },
+              {
+                "heading": "📊 Which markets and trading instruments are covered?",
+                "body": "Our VIP signals cover **4 major markets**: **Forex** (EUR/USD, GBP/USD, USD/JPY, and 15+ major pairs), **Commodities** (Gold XAUUSD, Silver, Oil), **Cryptocurrencies** (Bitcoin, Ethereum, top altcoins), and **Stock Indices** (SPY, QQQ, major indices). Premium members get access to ALL markets with 25+ signals weekly.",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-markets"
+              },
+              {
+                "heading": "🎯 What's your trading strategy and success rate?",
+                "body": "We use **advanced Price Action analysis** combined with multi-timeframe technical analysis. Our verified track record shows **87% winning rate** with average risk-reward ratio of 1:2. 80% of our signals are intraday trades (no overnight risk), and we focus on high-probability setups with clear risk management. All results are transparently posted on TradingView.",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-strategy"
+              },
+              {
+                "heading": "🔒 Are results guaranteed? What about refunds?",
+                "body": "**No trading service can guarantee profits** - trading involves risk and past performance doesn't guarantee future results. However, we offer a **7-day money-back guarantee** for new members. Our transparent TradingView track record shows consistent performance over 5+ years. We focus on education and risk management to help you become a profitable trader.",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-guarantee"
+              },
+              {
+                "heading": "🕐 What timezone are signals posted in?",
+                "body": "Signals are posted in **London time (GMT/BST)** to cover both European and US sessions. We provide **24/7 market coverage** during active trading hours. All signals include timestamp and market session information, and our Telegram bot automatically converts times to your local timezone for convenience.",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-timezone"
+              },
+              {
+                "heading": "🎓 I'm a beginner - can I still use your signals successfully?",
+                "body": "**Absolutely!** Our signals are designed for all skill levels. Each signal includes **detailed explanations, market analysis, and educational content** to help you learn while you trade. We provide position sizing guides, risk management tutorials, and beginner-friendly setups. Many of our most successful members started as complete beginners.",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-beginners"
+              }
+            ]
+          },
+          {
+            "eyebrow": null,
+            "title": null,
+            "body": "**Still have questions?** Our support team is here to help you succeed.",
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "alignment": "center",
+            "paddingTop": "xl",
+            "paddingLeft": "none",
+            "paddingBottom": "none",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": [
+              {
+                "href": "/contact",
+                "label": "💬 Contact Support",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": true,
+                "icon": null,
+                "id": "contact-support-cta"
               }
             ]
           }
@@ -345,155 +642,49 @@
       },
       {
         "contentType": "smartsection",
-        "id": "muhammad-trades-contact",
-        "htmlid": "contact",
+        "id": "final-cta",
+        "htmlid": "join-now",
         "layout": "Banner",
         "gap": "lg",
-        "backgroundColor": "#f1f5f9",
+        "backgroundColor": "#059669",
         "backgroundImage": null,
         "enableParallaxEffect": false,
-        "darkMode": false,
+        "darkMode": true,
         "sectionSeparator": false,
-        "paddingTop": "xl",
-        "paddingBottom": "xl",
+        "paddingTop": "3xl",
+        "paddingBottom": "3xl",
         "fullViewWidth": false,
         "content": [
           {
-            "eyebrow": null,
-            "title": "## __Contact__",
-            "body": null,
+            "eyebrow": "🔥 Limited Time Offer",
+            "title": "## __Don't Miss Another `Profitable Trade` — Join Muhammad Trades VIP Today__",
+            "body": "**Over 2000 traders are already profiting** with our premium signals. Don't let another day of potential profits pass you by. **Join the elite circle of successful traders now.**",
             "disclaimer": null,
-            "titleFontSize": "base",
+            "titleFontSize": "xl",
             "alignment": "center",
             "paddingTop": "none",
             "paddingLeft": "none",
             "paddingBottom": "lg",
             "paddingRight": "none",
             "contentType": "richcontent",
-            "ctas": []
-          },
-          {
-            "contentType": "contentlist",
-            "id": "contact-list",
-            "gap": "base",
-            "layout": "grid",
-            "columns": 5,
-            "ctas": [],
-            "contentItems": [
+            "ctas": [
               {
-                "contentType": "flexiblecontent",
-                "id": "contact-telegram",
-                "title": "### __Telegram__",
-                "eyebrow": null,
-                "body": null,
-                "tags": null,
-                "redirectUrl": "https://t.me/MuhammadTradesOfficial",
-                "alignment": "center",
-                "layout": "vertical",
-                "buttons": [
-                  {
-                    "href": "https://t.me/MuhammadTradesOfficial",
-                    "label": "Join Channel",
-                    "openNewTab": true,
-                    "variant": "ghost",
-                    "withArrow": true,
-                    "icon": null,
-                    "id": "telegram-btn"
-                  }
-                ],
-                "media": []
+                "href": "#pricing",
+                "label": "🚀 CLAIM YOUR VIP ACCESS NOW",
+                "openNewTab": false,
+                "variant": "secondary",
+                "withArrow": true,
+                "icon": null,
+                "id": "final-cta-main"
               },
               {
-                "contentType": "flexiblecontent",
-                "id": "contact-tradingview",
-                "title": "### __TradingView__",
-                "eyebrow": null,
-                "body": null,
-                "tags": null,
-                "redirectUrl": "https://www.tradingview.com/u/MuhammadTrades/",
-                "alignment": "center",
-                "layout": "vertical",
-                "buttons": [
-                  {
-                    "href": "https://www.tradingview.com/u/MuhammadTrades/",
-                    "label": "View Profile",
-                    "openNewTab": true,
-                    "variant": "ghost",
-                    "withArrow": true,
-                    "icon": null,
-                    "id": "tradingview-btn"
-                  }
-                ],
-                "media": []
-              },
-              {
-                "contentType": "flexiblecontent",
-                "id": "contact-twitter",
-                "title": "### __X (Twitter)__",
-                "eyebrow": null,
-                "body": null,
-                "tags": null,
-                "redirectUrl": "https://x.com/Algo_X_Trading",
-                "alignment": "center",
-                "layout": "vertical",
-                "buttons": [
-                  {
-                    "href": "https://x.com/Algo_X_Trading",
-                    "label": "Follow Us",
-                    "openNewTab": true,
-                    "variant": "ghost",
-                    "withArrow": true,
-                    "icon": null,
-                    "id": "twitter-btn"
-                  }
-                ],
-                "media": []
-              },
-              {
-                "contentType": "flexiblecontent",
-                "id": "contact-instagram",
-                "title": "### __Instagram__",
-                "eyebrow": null,
-                "body": null,
-                "tags": null,
-                "redirectUrl": "https://www.instagram.com/algo_x_trading",
-                "alignment": "center",
-                "layout": "vertical",
-                "buttons": [
-                  {
-                    "href": "https://www.instagram.com/algo_x_trading",
-                    "label": "Follow Us",
-                    "openNewTab": true,
-                    "variant": "ghost",
-                    "withArrow": true,
-                    "icon": null,
-                    "id": "instagram-btn"
-                  }
-                ],
-                "media": []
-              },
-              {
-                "contentType": "flexiblecontent",
-                "id": "contact-youtube",
-                "title": "### __YouTube__",
-                "eyebrow": null,
-                "body": null,
-                "tags": null,
-                "redirectUrl": "https://www.youtube.com/@MuhammadTradesOfficial",
-                "alignment": "center",
-                "layout": "vertical",
-                "buttons": [
-                  {
-                    "href": "https://www.youtube.com/@MuhammadTradesOfficial",
-                    "label": "Subscribe",
-                    "openNewTab": true,
-                    "variant": "ghost",
-                    "withArrow": true,
-                    "icon": null,
-                    "id": "youtube-btn"
-                  }
-                ],
-                "media": []
+                "href": "https://www.tradingview.com/u/MuhammadTrades/",
+                "label": "📊 View Our Live Results First",
+                "openNewTab": true,
+                "variant": "ghost",
+                "withArrow": false,
+                "icon": null,
+                "id": "final-cta-proof"
               }
             ]
           }
@@ -502,21 +693,25 @@
     ]
   },
   {
-    "title": "Contact — Muhammad Trades",
+    "title": "Contact Muhammad Trades — Premium VIP Trading Signals Support",
     "url": "/contact",
     "seo": {
-      "metaTitle": "Contact — Muhammad Trades",
-      "metaDescription": "Reach Muhammad Trades for VIP signals or support.",
+      "metaTitle": "Contact Muhammad Trades | VIP Trading Signals Support & Inquiries",
+      "metaDescription": "Get in touch with Muhammad Trades for VIP trading signals support, account assistance, or general inquiries. Fast response via Telegram and email.",
       "canonicalUrl": "https://tradingsignals.aheer.co/contact",
-      "focusKeywords": ["contact", "muhammad trades"],
+      "focusKeywords": [
+        "contact Muhammad Trades",
+        "trading signals support",
+        "VIP signals help"
+      ],
       "nofollow": false,
       "noindex": false,
       "ogImage": {
-        "url": "",
+        "url": "https://tradingsignals.aheer.co/og-contact.jpg",
         "width": 1200,
         "height": 630,
-        "description": null,
-        "contentType": "image/png"
+        "description": "Contact Muhammad Trades Support",
+        "contentType": "image/jpeg"
       }
     },
     "fontMain": "Inter",
@@ -527,37 +722,68 @@
     "content": [
       {
         "contentType": "smartsection",
-        "id": "contact-page",
+        "id": "contact-hero",
         "htmlid": "contact-page",
-        "layout": "Columns",
+        "layout": "Rows",
         "gap": "xl",
-        "backgroundColor": "#1e293b",
+        "backgroundColor": "#0f172a",
         "backgroundImage": null,
         "enableParallaxEffect": false,
         "darkMode": true,
         "sectionSeparator": false,
-        "paddingTop": "2xl",
-        "paddingBottom": "xl",
+        "paddingTop": "3xl",
+        "paddingBottom": "2xl",
         "fullViewWidth": false,
         "content": [
           {
-            "eyebrow": null,
-            "title": "# __Contact Muhammad Trades__",
-            "body": "Telegram is the fastest way to reach us.",
+            "eyebrow": "Get VIP Support",
+            "title": "# __Contact `Muhammad Trades` Support Team__",
+            "body": "**Need help with your VIP signals account?** Our dedicated support team is here to assist you with account access, trading questions, technical issues, and general inquiries. **Get fast, professional support from real traders.**",
             "disclaimer": null,
-            "titleFontSize": "lg",
-            "alignment": "start",
+            "titleFontSize": "xl",
+            "alignment": "center",
             "paddingTop": "none",
             "paddingLeft": "none",
-            "paddingBottom": "base",
+            "paddingBottom": "xl",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": []
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "contact-methods",
+        "htmlid": "contact-options",
+        "layout": "Rows",
+        "gap": "xl",
+        "backgroundColor": "#ffffff",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "3xl",
+        "paddingBottom": "3xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "eyebrow": "Choose Your Preferred Contact Method",
+            "title": "## __Multiple Ways to `Reach Our Team`__",
+            "body": "Select the contact method that works best for you. We're committed to providing fast, helpful responses to all inquiries.",
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "alignment": "center",
+            "paddingTop": "none",
+            "paddingLeft": "none",
+            "paddingBottom": "xl",
             "paddingRight": "none",
             "contentType": "richcontent",
             "ctas": []
           },
           {
             "contentType": "contentlist",
-            "id": "contact-methods",
-            "gap": "lg",
+            "id": "contact-options-grid",
+            "gap": "xl",
             "layout": "grid",
             "columns": 2,
             "ctas": [],
@@ -565,9 +791,9 @@
               {
                 "contentType": "flexiblecontent",
                 "id": "telegram-contact",
-                "title": "### __Telegram__",
+                "title": "### 💬 __Telegram Support__ *Fastest Response*",
                 "eyebrow": null,
-                "body": "Join our official Telegram channel for instant access to VIP trading signals.",
+                "body": "**Get instant support via Telegram** - our fastest communication channel. Perfect for urgent account issues, signal questions, or technical support.\n\n**Response Time:** Usually within 30 minutes\n**Best For:** Urgent issues, account access, signal questions",
                 "tags": null,
                 "redirectUrl": "https://t.me/MuhammadTradesOfficial",
                 "alignment": "start",
@@ -575,7 +801,7 @@
                 "buttons": [
                   {
                     "href": "https://t.me/MuhammadTradesOfficial",
-                    "label": "Join Channel",
+                    "label": "💬 Message on Telegram",
                     "openNewTab": true,
                     "variant": "primary",
                     "withArrow": true,
@@ -588,9 +814,9 @@
               {
                 "contentType": "flexiblecontent",
                 "id": "email-contact",
-                "title": "### __Email__",
+                "title": "### 📧 __Email Support__ *Detailed Inquiries*",
                 "eyebrow": null,
-                "body": "For support and general inquiries, reach out to our support team.",
+                "body": "**Professional email support** for detailed inquiries, billing questions, or formal correspondence. Perfect for complex issues that need detailed explanation.\n\n**Response Time:** Within 24 hours\n**Best For:** Billing inquiries, detailed questions, formal requests",
                 "tags": null,
                 "redirectUrl": "mailto:support@tradingsignals.aheer.co",
                 "alignment": "start",
@@ -598,7 +824,7 @@
                 "buttons": [
                   {
                     "href": "mailto:support@tradingsignals.aheer.co",
-                    "label": "Send Email",
+                    "label": "📧 Send Email",
                     "openNewTab": false,
                     "variant": "primary",
                     "withArrow": true,
@@ -611,25 +837,226 @@
             ]
           }
         ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "social-connect",
+        "htmlid": "social-media",
+        "layout": "Rows",
+        "gap": "xl",
+        "backgroundColor": "#f8fafc",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": false,
+        "sectionSeparator": false,
+        "paddingTop": "2xl",
+        "paddingBottom": "2xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "eyebrow": "Follow Muhammad Trades",
+            "title": "## __Connect with Us on `Social Media`__",
+            "body": "Stay updated with our latest market insights, trading tips, and community updates across all our social platforms.",
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "alignment": "center",
+            "paddingTop": "none",
+            "paddingLeft": "none",
+            "paddingBottom": "xl",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": []
+          },
+          {
+            "contentType": "contentlist",
+            "id": "social-links",
+            "gap": "lg",
+            "layout": "grid",
+            "columns": 5,
+            "ctas": [],
+            "contentItems": [
+              {
+                "contentType": "flexiblecontent",
+                "id": "tradingview-social",
+                "title": "### 📈 __TradingView__",
+                "eyebrow": null,
+                "body": "**Live trading results** and transparent performance tracking",
+                "tags": null,
+                "redirectUrl": "https://www.tradingview.com/u/MuhammadTrades/",
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [
+                  {
+                    "href": "https://www.tradingview.com/u/MuhammadTrades/",
+                    "label": "Follow Profile",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "tv-social-btn"
+                  }
+                ],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "youtube-social",
+                "title": "### 🎥 __YouTube__",
+                "eyebrow": null,
+                "body": "**Educational content** and market analysis videos",
+                "tags": null,
+                "redirectUrl": "https://www.youtube.com/@MuhammadTradesOfficial",
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [
+                  {
+                    "href": "https://www.youtube.com/@MuhammadTradesOfficial",
+                    "label": "Subscribe",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "yt-social-btn"
+                  }
+                ],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "instagram-social",
+                "title": "### 📸 __Instagram__",
+                "eyebrow": null,
+                "body": "**Daily insights** and behind-the-scenes content",
+                "tags": null,
+                "redirectUrl": "https://www.instagram.com/algo_x_trading",
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [
+                  {
+                    "href": "https://www.instagram.com/algo_x_trading",
+                    "label": "Follow Us",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "ig-social-btn"
+                  }
+                ],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "twitter-social",
+                "title": "### 🐦 __Twitter/X__",
+                "eyebrow": null,
+                "body": "**Real-time updates** and market commentary",
+                "tags": null,
+                "redirectUrl": "https://x.com/Algo_X_Trading",
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [
+                  {
+                    "href": "https://x.com/Algo_X_Trading",
+                    "label": "Follow Us",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "x-social-btn"
+                  }
+                ],
+                "media": []
+              },
+              {
+                "contentType": "flexiblecontent",
+                "id": "telegram-social",
+                "title": "### ⚡ __Telegram__",
+                "eyebrow": null,
+                "body": "**VIP signals** and community discussion",
+                "tags": null,
+                "redirectUrl": "https://t.me/MuhammadTradesOfficial",
+                "alignment": "center",
+                "layout": "vertical",
+                "buttons": [
+                  {
+                    "href": "https://t.me/MuhammadTradesOfficial",
+                    "label": "Join Channel",
+                    "openNewTab": true,
+                    "variant": "ghost",
+                    "withArrow": true,
+                    "icon": null,
+                    "id": "tg-social-btn"
+                  }
+                ],
+                "media": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "support-info",
+        "htmlid": "support-details",
+        "layout": "Banner",
+        "gap": "lg",
+        "backgroundColor": "#0f172a",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": true,
+        "sectionSeparator": false,
+        "paddingTop": "2xl",
+        "paddingBottom": "2xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "eyebrow": "Support Information",
+            "title": "## __Our `Commitment` to Your Success__",
+            "body": "**Muhammad Trades is dedicated to your trading success.** Our support team consists of experienced traders who understand your needs and challenges. We're here to ensure you get the most value from your VIP membership.\n\n**Support Hours:** Monday-Friday 9 AM - 6 PM GMT | **Response Time:** Telegram (30 mins), Email (24 hours) | **Languages:** English",
+            "disclaimer": null,
+            "titleFontSize": "base",
+            "alignment": "center",
+            "paddingTop": "none",
+            "paddingLeft": "none",
+            "paddingBottom": "lg",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": [
+              {
+                "href": "#pricing",
+                "label": "🚀 Join VIP Now",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null,
+                "id": "join-vip-contact-cta"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   {
-    "title": "FAQ — Muhammad Trades",
+    "title": "FAQ — Muhammad Trades VIP Trading Signals",
     "url": "/faq",
     "seo": {
-      "metaTitle": "FAQ — Muhammad Trades",
-      "metaDescription": "Answers about VIP trading signals, delivery, strategy and risk.",
+      "metaTitle": "FAQ — Muhammad Trades | VIP Trading Signals Questions & Answers",
+      "metaDescription": "Get answers to frequently asked questions about Muhammad Trades VIP trading signals, pricing, delivery methods, success rates, and trading strategies.",
       "canonicalUrl": "https://tradingsignals.aheer.co/faq",
-      "focusKeywords": ["faq", "trading signals"],
+      "focusKeywords": [
+        "trading signals FAQ",
+        "Muhammad Trades questions",
+        "VIP signals help"
+      ],
       "nofollow": false,
       "noindex": false,
       "ogImage": {
-        "url": "",
+        "url": "https://tradingsignals.aheer.co/og-faq.jpg",
         "width": 1200,
         "height": 630,
-        "description": null,
-        "contentType": "image/png"
+        "description": "Muhammad Trades FAQ",
+        "contentType": "image/jpeg"
       }
     },
     "fontMain": "Inter",
@@ -640,61 +1067,177 @@
     "content": [
       {
         "contentType": "smartsection",
-        "id": "faq-page",
+        "id": "faq-hero",
         "htmlid": "faq-page",
-        "layout": "Banner",
-        "gap": "lg",
-        "backgroundColor": "#f1f5f9",
+        "layout": "Rows",
+        "gap": "xl",
+        "backgroundColor": "#0f172a",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": true,
+        "sectionSeparator": false,
+        "paddingTop": "3xl",
+        "paddingBottom": "2xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "eyebrow": "Everything You Need to Know",
+            "title": "# __Frequently Asked Questions About `VIP Trading Signals`__",
+            "body": "**Get comprehensive answers** to the most common questions about Muhammad Trades VIP signals, membership benefits, trading strategies, and support services.",
+            "disclaimer": null,
+            "titleFontSize": "xl",
+            "alignment": "center",
+            "paddingTop": "none",
+            "paddingLeft": "none",
+            "paddingBottom": "xl",
+            "paddingRight": "none",
+            "contentType": "richcontent",
+            "ctas": []
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "faq-content",
+        "htmlid": "faq-questions",
+        "layout": "Rows",
+        "gap": "xl",
+        "backgroundColor": "#ffffff",
         "backgroundImage": null,
         "enableParallaxEffect": false,
         "darkMode": false,
         "sectionSeparator": false,
-        "paddingTop": "2xl",
-        "paddingBottom": "xl",
+        "paddingTop": "3xl",
+        "paddingBottom": "3xl",
         "fullViewWidth": false,
         "content": [
           {
-            "eyebrow": null,
-            "title": "# __Frequently asked questions__",
-            "body": null,
+            "contentType": "contentlist",
+            "id": "detailed-faq-list",
+            "gap": "lg",
+            "layout": "grid",
+            "columns": 1,
+            "ctas": [],
+            "contentItems": [
+              {
+                "heading": "🎯 Why should I choose Muhammad Trades VIP signals over other services?",
+                "body": "**Here are 7 compelling reasons Muhammad Trades stands out:**\n\n**1. Verified Track Record:** All our trades are publicly posted on TradingView with transparent results\n**2. Professional Experience:** 5+ years of proven trading experience with consistent profitability\n**3. Multi-Market Coverage:** Forex, Gold, Crypto, and Stocks - diversify your trading portfolio\n**4. Real-Time Updates:** Instant Telegram notifications for entries, exits, and trade management\n**5. Educational Value:** Learn professional trading strategies while following our signals\n**6. Risk Management:** Every signal includes proper stop-loss and position sizing guidance\n**7. Active Community:** Join 2000+ successful traders in our supportive VIP community",
+                "isCollapsed": false,
+                "contentType": "qa",
+                "id": "faq-why-choose-us"
+              },
+              {
+                "heading": "📱 How exactly do I receive and use the VIP trading signals?",
+                "body": "**Signal Delivery Process:**\n\n**Step 1:** After purchasing, you'll be added to our private Telegram VIP channel within 24 hours\n**Step 2:** Receive instant notifications on your phone/computer when new signals are posted\n**Step 3:** Each signal includes: Market pair, Entry price, Stop-loss level, 2-3 Take-profit targets, Trade reasoning\n**Step 4:** Execute the trade in your broker platform using our exact specifications\n**Step 5:** Follow our trade management updates for optimal exits\n\n**Signal Format Example:**\n🔥 **GOLD (XAUUSD) - BUY SIGNAL**\n📈 Entry: 1985.50\n🛡️ Stop Loss: 1980.00\n🎯 TP1: 1995.00 | TP2: 2005.00 | TP3: 2015.00\n💡 Reason: Bullish breakout above key resistance",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-how-signals-work"
+              },
+              {
+                "heading": "💰 What's the minimum account size needed to trade your signals profitably?",
+                "body": "**Recommended Account Sizes:**\n\n**Minimum Recommended:** $500-1000 for optimal risk management\n**Conservative Approach:** $1000-2500 for comfortable position sizing\n**Aggressive Approach:** $300-500 (higher risk, requires strict discipline)\n\n**Why These Amounts?**\n- Allows 1-2% risk per trade (professional standard)\n- Enables proper lot sizing across different instruments\n- Provides buffer for drawdown periods\n- Supports diversification across multiple signals\n\n**Risk Management Guidelines:**\n- Never risk more than 2% of account per trade\n- Use appropriate leverage (1:30 to 1:100 recommended)\n- Maintain at least 20 trades worth of capital\n- Consider using a portion of account (70-80%) for signal trading",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-minimum-account"
+              },
+              {
+                "heading": "📊 What markets and instruments are covered in each membership tier?",
+                "body": "**STARTER ($29/month):**\n- Forex Major Pairs (EUR/USD, GBP/USD, USD/JPY, USD/CHF, AUD/USD, USD/CAD, NZD/USD)\n- Gold (XAUUSD)\n- 8-12 signals per week\n\n**STANDARD ($59/month):**\n- All Starter benefits PLUS:\n- Forex Minor Pairs (EUR/GBP, EUR/JPY, GBP/JPY, etc.)\n- Silver (XAGUSD)\n- Major Cryptocurrencies (BTC/USD, ETH/USD, ADA/USD, etc.)\n- 15-25 signals per week\n\n**PREMIUM ($99/month):**\n- All Standard benefits PLUS:\n- Stock Indices (SPY, QQQ, DIA, IWM)\n- Individual Blue-chip Stocks (AAPL, GOOGL, MSFT, TSLA)\n- Exotic Currency Pairs\n- Commodity CFDs (Oil, Natural Gas)\n- 25+ signals per week\n- Exclusive high-value setups",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-market-coverage"
+              },
+              {
+                "heading": "🎯 What's your trading strategy and proven success rate?",
+                "body": "**Our Trading Methodology:**\n\n**Primary Strategy:** Advanced Price Action Analysis combined with Multi-Timeframe Technical Analysis\n**Success Rate:** 87% winning trades (verified on TradingView)\n**Risk-Reward Ratio:** Average 1:2 (risk $1 to make $2)\n**Trade Duration:** 80% intraday, 20% swing trades (2-5 days)\n\n**Technical Analysis Components:**\n- Support/Resistance levels\n- Chart patterns and breakouts\n- Fibonacci retracements and extensions\n- Trend analysis and momentum indicators\n- Volume analysis and market sentiment\n\n**Risk Management Rules:**\n- Maximum 2% risk per trade\n- Pre-defined stop-loss on every trade\n- Multiple take-profit levels for profit optimization\n- Position sizing based on volatility\n- Daily and weekly risk limits",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-strategy-success"
+              },
+              {
+                "heading": "🔒 Do you guarantee profits? What's your refund policy?",
+                "body": "**Important Disclaimer:**\nNo legitimate trading service can guarantee profits. **Trading involves significant risk** and past performance doesn't guarantee future results.\n\n**What We DO Guarantee:**\n✅ Transparent, verified track record on TradingView\n✅ Professional analysis and clear entry/exit points\n✅ Real-time signal delivery via Telegram\n✅ Educational content to improve your trading\n✅ Dedicated customer support\n\n**Refund Policy:**\n- **7-day money-back guarantee** for new members\n- Full refund if unsatisfied within first week\n- No questions asked cancellation policy\n- Cancel subscription anytime to stop future charges\n\n**Our Commitment:**\nWhile we can't guarantee profits, we guarantee **professional service, transparent results, and genuine effort** to help you succeed in trading.",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-guarantees-refunds"
+              },
+              {
+                "heading": "🕐 What timezone are signals posted in and how often?",
+                "body": "**Signal Timing & Frequency:**\n\n**Primary Timezone:** London Time (GMT/BST)\n**Active Hours:** 8:00 AM - 8:00 PM London Time\n**Market Sessions Covered:** Asian, European, and US sessions\n\n**Signal Frequency by Plan:**\n- **Starter:** 8-12 signals per week (1-2 daily average)\n- **Standard:** 15-25 signals per week (3-4 daily average)\n- **Premium:** 25+ signals per week (4-6 daily average)\n\n**Session Distribution:**\n- **Asian Session:** 1-2 signals (mainly JPY pairs, Gold)\n- **European Session:** 2-3 signals (EUR, GBP pairs)\n- **US Session:** 1-2 signals (USD pairs, Stocks)\n- **Overlap Periods:** Highest activity and best setups\n\n**Convenience Features:**\n- All signals include GMT timestamp\n- Mobile notifications ensure you never miss opportunities\n- Signals posted when optimal market conditions align",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-timing-frequency"
+              },
+              {
+                "heading": "🎓 I'm a complete beginner - can I succeed with your signals?",
+                "body": "**Absolutely! Here's how we support beginners:**\n\n**Educational Support:**\n- **Detailed Trade Explanations:** Every signal includes market analysis and reasoning\n- **Risk Management Tutorials:** Learn proper position sizing and money management\n- **Trading Basics Content:** Regular educational posts about trading fundamentals\n- **Glossary and Guides:** Understand trading terminology and concepts\n\n**Beginner-Friendly Features:**\n- **Simple Signal Format:** Clear entry, stop-loss, and take-profit levels\n- **Step-by-Step Instructions:** How to execute trades in your broker platform\n- **Community Support:** Learn from experienced traders in our group\n- **Conservative Recommendations:** Start with smaller position sizes\n\n**Success Path for Beginners:**\n1. **Start with Demo Account:** Practice with virtual money first\n2. **Begin with Starter Plan:** Lower cost, focus on learning\n3. **Follow Risk Management:** Never risk more than 1% per trade as beginner\n4. **Study Each Signal:** Understand why trades are taken\n5. **Gradually Increase:** Build confidence before increasing position sizes\n\n**Beginner Success Stats:** 60% of our most successful long-term members started as complete beginners!",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-beginners"
+              },
+              {
+                "heading": "🔧 Which brokers do you recommend and are there any restrictions?",
+                "body": "**Recommended Broker Types:**\n\n**For Forex & Gold Trading:**\n- **Regulated Brokers:** FCA, CySEC, ASIC regulated preferred\n- **Spread Requirements:** Raw spreads or ECN accounts recommended\n- **Execution Speed:** Fast execution (under 50ms) essential\n- **Examples:** IC Markets, Pepperstone, XM, FXCM, IG\n\n**For Crypto Trading:**\n- **Established Exchanges:** Binance, Coinbase Pro, Kraken\n- **CFD Brokers:** eToro, Plus500 (for leveraged crypto)\n\n**For Stock Trading:**\n- **US Stocks:** Interactive Brokers, TD Ameritrade, E*TRADE\n- **European Stocks:** Plus500, eToro, Trading 212\n\n**Broker Requirements:**\n✅ Support for all our trading instruments\n✅ Competitive spreads (under 1 pip for major pairs)\n✅ Reliable platform with mobile access\n✅ Good customer support\n✅ Segregated client funds\n\n**Important Notes:**\n- We don't receive commissions from brokers\n- Choice depends on your location and preferences\n- Demo accounts available with all recommended brokers\n- Minimum deposit requirements vary ($50-500)",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-brokers"
+              },
+              {
+                "heading": "📞 How can I get support if I have technical issues or questions?",
+                "body": "**Multiple Support Channels:**\n\n**🚀 Telegram Support (Fastest):**\n- Response time: Usually within 30 minutes\n- Available: Monday-Friday 9 AM - 6 PM GMT\n- Best for: Urgent issues, signal questions, technical problems\n- Direct message: @MuhammadTradesOfficial\n\n**📧 Email Support (Detailed):**\n- Response time: Within 24 hours\n- Email: support@tradingsignals.aheer.co\n- Best for: Account issues, billing, detailed inquiries\n\n**💬 Community Support:**\n- VIP group discussions\n- Learn from other traders\n- Share experiences and strategies\n\n**🎥 Educational Resources:**\n- YouTube channel tutorials\n- Platform setup guides\n- Trading basics videos\n\n**Common Support Topics:**\n- Account access and setup\n- Signal execution help\n- Broker recommendations\n- Risk management guidance\n- Technical analysis questions\n- Platform usage support\n\n**Support Quality Promise:**\nOur support team consists of **experienced traders** who understand your challenges and provide practical, actionable solutions.",
+                "isCollapsed": true,
+                "contentType": "qa",
+                "id": "faq-support"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "contentType": "smartsection",
+        "id": "faq-cta",
+        "htmlid": "faq-contact",
+        "layout": "Banner",
+        "gap": "lg",
+        "backgroundColor": "#0f172a",
+        "backgroundImage": null,
+        "enableParallaxEffect": false,
+        "darkMode": true,
+        "sectionSeparator": false,
+        "paddingTop": "2xl",
+        "paddingBottom": "2xl",
+        "fullViewWidth": false,
+        "content": [
+          {
+            "eyebrow": "Still Have Questions?",
+            "title": "## __Get `Personalized Answers` from Our Expert Team__",
+            "body": "**Couldn't find what you're looking for?** Our experienced support team is ready to provide personalized answers to your specific questions about VIP trading signals, membership benefits, or trading strategies.",
             "disclaimer": null,
-            "titleFontSize": "lg",
+            "titleFontSize": "base",
             "alignment": "center",
             "paddingTop": "none",
             "paddingLeft": "none",
             "paddingBottom": "lg",
             "paddingRight": "none",
             "contentType": "richcontent",
-            "ctas": []
-          },
-          {
-            "contentType": "contentlist",
-            "id": "faq-page-list",
-            "gap": "base",
-            "layout": "grid",
-            "columns": 1,
-            "ctas": [],
-            "contentItems": [
+            "ctas": [
               {
-                "heading": "How do I join the VIP channel?",
-                "body": "Choose a plan on the Pricing section and you'll be added after confirmation.",
-                "isCollapsed": false,
-                "contentType": "qa",
-                "id": "faq-join"
+                "href": "/contact",
+                "label": "💬 Contact Support Team",
+                "openNewTab": false,
+                "variant": "primary",
+                "withArrow": true,
+                "icon": null,
+                "id": "faq-contact-cta"
               },
               {
-                "heading": "Do you offer refunds?",
-                "body": "Subscriptions are generally non-refundable. Cancel anytime before renewal.",
-                "isCollapsed": true,
-                "contentType": "qa",
-                "id": "faq-refunds"
-              },
-              {
-                "heading": "What timezone are signals posted in?",
-                "body": "Primarily London time (GMT/BST).",
-                "isCollapsed": true,
-                "contentType": "qa",
-                "id": "faq-timezone"
+                "href": "#pricing",
+                "label": "🚀 Join VIP Now",
+                "openNewTab": false,
+                "variant": "ghost",
+                "withArrow": true,
+                "icon": null,
+                "id": "faq-join-cta"
               }
             ]
           }
